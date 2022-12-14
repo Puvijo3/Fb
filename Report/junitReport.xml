@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="79.049">
+    <testcase classname="Social Networking Application" name="Home Page" time="78.751">
+        <system-out><![CDATA[Given user Launch The Application...........................................passed
+When user Get Text From The WebElement......................................passed
+When user Click The Sign-up.................................................passed
+And user Enter The Required Information.....................................passed
+But user Get The Invalid Credential Input...................................passed
+Then user Get The Screenshot Of The Current Page............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
